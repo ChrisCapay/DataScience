@@ -1,4 +1,4 @@
-# IBMDataScience
+# IBM_Certificate Folder
 My projects for the IBM Professional Certificate course for Python Data Science.
 
 Project 1 - basketball_stats.ipynb : Scrape data from the web for NBA Statistics on individual players and use python basics for data analysis.
